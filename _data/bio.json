@@ -1,18 +1,15 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Brian Dang",
     "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
+    "picture": "https://github.com/brian-d-dang.png",
+    "email": "bdd@hawaii.edu",
+    "website": "https://brian-d-dang.github.io",
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "Brian-D-Dang", "url": "https://github.com/Brian-D-Dang" },
+      { "network": "linkedin", "username": "mollymaluhia", "url": "https://www.linkedin.com/in/brian-d-dang/" }
     ]
   },
   "interests": [
