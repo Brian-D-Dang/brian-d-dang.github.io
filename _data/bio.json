@@ -13,8 +13,9 @@
     ]
   },
   "interests": [
-    { "name": "Esports" },
+    { "name": "Software Engineering" },
     { "name": "Machine Learning" },
+    { "name": "Esports" },
     { "name": "Fitness" }
   ],
   "skills": [
