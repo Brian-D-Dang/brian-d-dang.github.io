@@ -10,7 +10,8 @@ labels:
   - Javascript
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
+<img width="200px" class="rounded float-start pe-4" src="../img/javascriptReflection/JavaScript_screenshot.png">
+<!-- <img width="300px" class="rounded float-start pe-4" src="" -->
 
 ## What I think of Javascript so far
 
