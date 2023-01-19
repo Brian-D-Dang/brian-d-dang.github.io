@@ -6,9 +6,9 @@ title: "Department of Human Services Interactive Voice Response"
 date: 2021
 published: true
 labels:
-  - Robotics
-  - Arduino
-  - C++
+  - CCAI
+  - Java
+  - SQL
 summary: "My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition."
 ---
 
