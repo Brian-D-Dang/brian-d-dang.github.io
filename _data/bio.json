@@ -5,7 +5,7 @@
     "picture": "https://github.com/brian-d-dang.png",
     "email": "bdd@hawaii.edu",
     "website": "https://brian-d-dang.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
+    "summary": "I am an aspiring Software Engineer and Esports enthusiast. I am currently attending the University of Hawaii at Manoa and pursuing a B.S in Data Science Computer Science.",
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "Brian-D-Dang", "url": "https://github.com/Brian-D-Dang" },
@@ -13,16 +13,18 @@
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
     { "name": "Esports" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Machine Learning" },
+    { "name": "Fitness" }
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Javascript", "Python"]
+      "name": "Languages",
+      "keywords": [ "C", "C++", "Java", "Javascript", "Python" ]
+    },
+    {
+      "name": "Technologies",
+      "keywords": [ "HTML & CSS", "Vue.js", "Quasar Framework", "Git" ]
     }
   ],
   "education": [
@@ -40,7 +42,7 @@
     {
       "company": "Research Computing Facility",
       "position": "Computer and Network Support",
-      "website": "",
+      "website": "http://www.soest.hawaii.edu/rcf/",
       "startDate": "2022-08",
       "endDate": "Present",
       "summary": "Provide computer and network support to SOEST, the research institute for all Ocean and Earth Sciences at the University of Hawai’i at Manoa, under the Research Computing Facility",
@@ -65,15 +67,26 @@
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
+      "organization": "University of Hawaii Esports",
       "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
+      "position": "UH Esports Team Manager/Player Coordinator",
+      "startDate": "2022-06",
       "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "summary": "Managed and directed the Apex Varsity team.",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "Managed practice times and tournmanet times",
+        "Consistently worked with players to improve on team work and gaming experience"
+      ]
+    },
+        {
+      "organization": "Association for Computing Machinery",
+      "website": "https://acmanoa.github.io/",
+      "position": "Member",
+      "startDate": "2020-09",
+      "endDate": "Present",
+      "summary": "A club that holds social events to develop interpersonal relations and connections, and reinforces computer science knowledge",
+      "highlights": [
+        "Sovled complex coding problems"
       ]
     }
   ],
