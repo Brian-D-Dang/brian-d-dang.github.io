@@ -3,11 +3,11 @@ layout: essay
 type: essay
 title: "What The Future Holds For Me"
 # All dates must be YYYY-MM-DD format!
-date: 2023-01-18
+date: 2023-01-20
 published: true
 labels:
   - Reflection
-  - Javascript
+  - Software Engineering
 ---
 
 <img width="500px" class="rounded float-start pe-4" src="../img/javascriptReflection/JavaScript_screenshot.png">
