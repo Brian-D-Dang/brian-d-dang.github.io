@@ -15,7 +15,7 @@ labels:
 ## Early life before college
 
 
-<img width="300px" class="rounded float-start pe-4" src="../img/what_the_future_holds/highschool.jpg">
+<img width="250px" class="rounded float-start pe-4" src="../img/what_the_future_holds/highschool.jpg">
 
 In my early life I was consistently influenced by the digital world. Playing video games on a daily basis, while interacting with the internet and watching videos. The digital realm was a large part of my life, although we grew up poor, I was constantly around technology. I however never considered a field within software engineering until a fateful day in High school. 
 
