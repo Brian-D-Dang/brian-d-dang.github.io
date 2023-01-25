@@ -7,8 +7,7 @@ date: 2022
 published: true
 labels:
   - Wordpress
-  - HTML
-  - CSS
+  - Filezilla
 summary: "My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition."
 ---
 
@@ -18,4 +17,13 @@ summary: "My team developed a robotic mouse that won first place in the 2015 UH 
   <img width="200px" src="../img/micromouse/micromouse-circuit.png" class="img-thumbnail" >
 </div>
 
-Micromouse is an event where small robot “mice” solve a 16 x 16 maze.  Events are held worldwide.  The maze is made up of a 16 by 16 gird of cells, each 180 mm square with walls 50 mm high.  The mice are completely autonomous robots that must find their way from a predetermined starting position to the central area of the maze unaided.  The mouse will need to keep track of where it is, discover walls as it explores, map out the maze and detect when it has reached the center.  having reached the center, the mouse will typically perform additional searches of the maze until it has found the most optimal route from the start to the center.  Once the most optimal route has been determined, the mouse will run that route in the shortest possible time.
+## What is the project
+The Women’s Campus Club required help revamping their old website. Utilizing UH ITS utilities I was able to update the website from basic HTML and CSS to wordpress. The Women’s Campus Club is an organization that can be found on campus at their Thrift Store location. The project required me to work through graphic design concepts and learning wordpress. This introduced me to content management systems and allowed me to practice communicating with clients. 
+
+## What I found challenging
+I found creating a new application with wordpress was intimidating. Although wordpress was an application used by many, and was considered simple, I was working on the project alone with no help to fall back on. I had to figure out how to traverse the workspace and also graphically design a website with little to no design experience. However, with enough determination to jump over the first hurdle, starting the project, I was able to steamroll through each page one by one. 
+
+## Tools used for this project
+**- Wordpress**
+**- Filezilla**
+
