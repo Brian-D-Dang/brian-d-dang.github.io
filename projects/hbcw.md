@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/hbcw/hbcw_square.png
 title: "Honolulu Baking Company Website"
 date: 2019
 published: true
@@ -12,9 +12,24 @@ summary: "My team developed a robotic mouse that won first place in the 2015 UH 
 ---
 
 <div class="text-center p-4">
-  <img width="200px" src="../img/micromouse/micromouse-robot.png" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-robot-2.jpg" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-circuit.png" class="img-thumbnail" >
+  <img width="400px" src="../img/hbcw/hbcw_logo.jgp" class="img-thumbnail" >
+  <img width="400px" src="../img/hbcw/hbcw.png" class="img-thumbnail" >
 </div>
 
-Micromouse is an event where small robot “mice” solve a 16 x 16 maze.  Events are held worldwide.  The maze is made up of a 16 by 16 gird of cells, each 180 mm square with walls 50 mm high.  The mice are completely autonomous robots that must find their way from a predetermined starting position to the central area of the maze unaided.  The mouse will need to keep track of where it is, discover walls as it explores, map out the maze and detect when it has reached the center.  having reached the center, the mouse will typically perform additional searches of the maze until it has found the most optimal route from the start to the center.  Once the most optimal route has been determined, the mouse will run that route in the shortest possible time.
+PROJECT Website https://honolulubakingcompany.com/#/
+
+## What is the project 
+
+The Honolulu Baking Company did not have a website to advertise their mission and food, so I was tasked with a project to create a website from scratch for the Honolulu Baking Company. Utilizing Vue.js and Quasar and git I created tasks and went through the process of self pr reviews. I also had to practice communicating with the client to decipher what the final product would look like, and how they want to showcase their company. 
+
+## What I found challenging
+
+I underestimated the length of website projects. Coding from scratch and producing the website as a sole developer was taxing. I didn’t place enough time into website creation and almost fell short of the website release deadline. I placed too much emphasis on mobile conversion. The website had been optimized for PC early into development, but mobile capabilities weren’t fully developed. So instead of releasing the website I began mobile conversion.
+
+Although I finished the project on time, I learned that I should have released the website before moving onto mobile conversion. This is so the clients themselves wouldn’t have to worry about the website and are able to expand on the web. This also provides me with leg room to continue development without worrying about the website deadline. I also learned to place more time into web development projects. 
+
+## Tools used for this project
+**- Vue.js - Quasar Framework**
+
+
+
