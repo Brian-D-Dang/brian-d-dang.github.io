@@ -12,7 +12,7 @@ summary: "My team developed a robotic mouse that won first place in the 2015 UH 
 ---
 
 <div class="text-center p-4">
-  <img width="400px" src="../img/hbwc/hbcw.png" class="img-thumbnail" >
+  <img width="700px" src="../img/hbwc/hbcw.png" class="img-thumbnail" >
 </div>
 
 **PROJECT Website https://honolulubakingcompany.com/#/**
