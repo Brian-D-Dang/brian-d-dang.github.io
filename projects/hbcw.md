@@ -16,7 +16,7 @@ summary: "My team developed a robotic mouse that won first place in the 2015 UH 
   <img width="400px" src="../img/hbcw/hbcw.png" class="img-thumbnail" >
 </div>
 
-PROJECT Website https://honolulubakingcompany.com/#/
+**PROJECT Website https://honolulubakingcompany.com/#/**
 
 ## What is the project 
 
