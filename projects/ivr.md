@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/ivr/dialogflow.png
+image: img/ivr/dialogflow_square.png
 title: "Department of Human Services Interactive Voice Response"
 date: 2021
 published: true
