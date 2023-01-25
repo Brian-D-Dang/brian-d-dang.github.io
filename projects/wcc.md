@@ -12,9 +12,9 @@ summary: "My team developed a robotic mouse that won first place in the 2015 UH 
 ---
 
 <div class="text-center p-4">
-  <img width="200px" src="../img/micromouse/micromouse-robot.png" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-robot-2.jpg" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-circuit.png" class="img-thumbnail" >
+  <img width="200px" src="../img/wcc/wcc1.png" class="img-thumbnail" >
+  <img width="200px" src="../img/wcc/wcc2.png" class="img-thumbnail" >
+  <img width="200px" src="../img/wcc/wcc3.png" class="img-thumbnail" >
 </div>
 
 ## What is the project
