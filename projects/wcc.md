@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/wcc/wcc1.png
+image: img/wcc/wcc_square.png
 title: "Women's Campus Club Website"
 date: 2022
 published: true
