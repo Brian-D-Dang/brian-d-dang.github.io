@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/hbcw/hbcw_square.png
+image: img/hbwc/hbcw_square.png
 title: "Honolulu Baking Company Website"
 date: 2019
 published: true
@@ -12,8 +12,7 @@ summary: "My team developed a robotic mouse that won first place in the 2015 UH 
 ---
 
 <div class="text-center p-4">
-  <img width="400px" src="../img/hbcw/hbcw_logo.jgp" class="img-thumbnail" >
-  <img width="400px" src="../img/hbcw/hbcw.png" class="img-thumbnail" >
+  <img width="400px" src="../img/hbwc/hbcw.png" class="img-thumbnail" >
 </div>
 
 **PROJECT Website https://honolulubakingcompany.com/#/**
