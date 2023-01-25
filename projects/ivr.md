@@ -17,7 +17,7 @@ summary: "My team developed a robotic mouse that won first place in the 2015 UH 
 
 </div>
 
-To see the project in action please call  1-855-643-1643
+**To see the project in action please call  1-855-643-1643**
 
 ## What is the project
 
