@@ -17,6 +17,8 @@ summary: "My team developed a robotic mouse that won first place in the 2015 UH 
 
 </div>
 
+To see the project in action please call  1-855-643-1643
+
 ## What is the project
 
 The project was to implement Google Contact Center AI (CCAI) into Hawaii’s Department of Human Services (DHS). This is so clients are able to get information on SNAP, CCPs, TANF, MQD, etc. The program will offer assistance and allow the client to access their accounts and the program will be able to point them to more info, or connect them to a DHS worker. 
