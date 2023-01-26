@@ -9,7 +9,7 @@ labels:
   - CCAI
   - Java
   - SQL
-summary: "My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition."
+summary: "An eWorld ES company project that deployed CCAI software which enabled 24/7 DHS support."
 ---
 
 <div class="text-center p-4">
