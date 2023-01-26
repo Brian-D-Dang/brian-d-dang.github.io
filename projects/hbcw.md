@@ -15,7 +15,10 @@ summary: "My team developed a robotic mouse that won first place in the 2015 UH 
   <img width="700px" src="../img/hbwc/hbcw.png" class="img-thumbnail" >
 </div>
 
-**PROJECT Website https://honolulubakingcompany.com/#/**
+
+**PROJECT Website: https://honolulubakingcompany.com/#/**
+
+**Github Repository: https://github.com/Roosevelt-High-School-STEM-program/Roosevelt-Website-Project"**
 
 ## What is the project 
 
