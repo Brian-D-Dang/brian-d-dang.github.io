@@ -8,7 +8,7 @@ published: true
 labels:
   - Vue.js
   - Quasar framework
-summary: "My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition."
+summary: "Worked with a local business, Honolulu Baking Company, to construct their own website."
 ---
 
 <div class="text-center p-4">
