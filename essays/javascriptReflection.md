@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "document.getElementById('Javascript Reflection!!!!');"
+title: "document.getElementById('javascriptReflection');"
 # All dates must be YYYY-MM-DD format!
 date: 2023-01-18
 published: true
