@@ -1,27 +1,49 @@
 ---
 layout: essay
 type: essay
-title: "Smart Questions, Good Answers"
+title: "Questions, how to ask em"
 # All dates must be YYYY-MM-DD format!
-date: 2015-09-08
-published: false
+date: 2023-01-26
+published: true
 labels:
   - Questions
   - Answers
   - StackOverflow
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="../img/smart-questions/rtfm.png">
+<img width="300px" class="rounded float-start pe-4" src="../img/smart-questions/stackOverflow.png">
 
-## Is there such thing as a stupid question?
+StackOverflow is known as a developer’s best friend. Whenever you run into specific coding problems, StackOverflow would usually have an answer. Interestingly enough many developers also never have to ask questions, but when they do many developers may not understand how to ask. In this essay we will talk about bad questions and. smart questions
 
-I’ve had instructors address a whole class and say, “There’s no such thing as a stupid question.” I now know that is in fact not true because I’ve challenged the statement and received the appropriate dumb-stricken, annoyed look. There are definitely stupid questions, and along with that, usually unhelpful answers. Though we all might be guilty of being callous and making people victim to our poorly formed questions, there are steps we can take to ask smarter questions that hopefully don’t illicit the dreaded “rtfm” or “stfw” response.
+## What’s a bad question?
 
-## What’s a smart question?
+Bad questions are easy to ask. If you don’t take the time to expand upon your problems you can  easily ask a low detailed question which often gets ignored. An easy way to ask a bad question is by “guessing” issues instead of “describing” the symptoms of your problem. Bad questions also lack explicitly, as I stated earlier. Bad questions often contain low detail and aren’t explained well enough to help the reader understand your problem/question. It also makes it less appealing to help, as you have little to no information to build off of.
 
-Stack Overflow, a question and answer site for programmers, is a great resource for anyone who may have issues with code or who may simply want to learn new or different methods of doing something. There I found examples of good questions and bad questions, which could probably be improved.
+An example of such a bad question can be found below:
+<img width="300px" class="rounded float-start pe-4" src="../img/smart-questions/badQuestion1.png">
 
-In the following example, we examine the components of a decent question. In this case, the asker is trying to figure out a way to get the date of the previous month in Python.
+## What's a smart question?
+
+Smart questions on the other hand are a lot harder to ask as they require more time to develop. To ask smart questions first begins with being detailed in your problem/question. Explain the symptoms of your problem, and showcase code that is necessary and tied to the area you’re trying to solve/fix. Adding this level of detail to your question creates a more inviting question, which leads to more help. 
+
+An example of smart question can be seen below:
+
+<div class="text-center p-4">
+  <img width="800px" 
+       src="../img/smart-questions/goodQuestion1.png" 
+       class="img-thumbnail" >
+  <img width="800px" 
+       src="../img/smart-questions/goodQuestion2.jpg" 
+       class="img-thumbnail" >
+  <img width="800px" 
+       src="../img/smart-questions/goodQuestion3.png" 
+       class="img-thumbnail" >
+</div>
+
+## Conclusion
+
+Looking at both questions we can also see the amount of traction each question received. The bad question received 0 comments and -1 likes, while the smart question received 26861 likes and many comments. When you can’t find a solution to your problem, and your last resort is StackOverflow, then you should take the time to develop smarter questions and to add in the necessary details to help the reader understand. It will have a more likely chance of a reader responding and being helpful.
+
 
 ```
 Q: python date of the previous month
