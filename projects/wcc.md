@@ -17,7 +17,7 @@ summary: "Updated and transitioned website to WordPress for a UH Manoa club."
   <img width="450px" src="../img/wcc/wcc3.png" class="img-thumbnail" >
 </div>
 
-**PROJECT Website (https://www.hawaii.edu/wcc/)**
+**PROJECT Website [Women's Campus Club](https://www.hawaii.edu/wcc/)**
 
 ## What is the project
 The Women’s Campus Club required help revamping their old website. Utilizing UH ITS utilities I was able to update the website from basic HTML and CSS to wordpress. The Women’s Campus Club is an organization that can be found on campus at their Thrift Store location. The project required me to work through graphic design concepts and learning wordpress. This introduced me to content management systems and allowed me to practice communicating with clients. 
