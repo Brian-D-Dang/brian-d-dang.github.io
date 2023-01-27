@@ -16,9 +16,9 @@ summary: "Worked with a local business, Honolulu Baking Company, to construct th
 </div>
 
 
-**PROJECT Website: (https://honolulubakingcompany.com/#/)**
+**PROJECT Website: [Honolulu Baking Company](https://honolulubakingcompany.com/#/)**
 
-**Github Repository: (https://github.com/Roosevelt-High-School-STEM-program/Roosevelt-Website-Project)**
+**Github Repository: [HBCW Repository](https://github.com/Roosevelt-High-School-STEM-program/Roosevelt-Website-Project)**
 
 ## What is the project 
 
