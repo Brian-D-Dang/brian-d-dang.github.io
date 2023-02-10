@@ -19,12 +19,11 @@ ESlint provides corrections to your code based on certain rules that the user se
 ## SPICY HOT TAKE
 I like having ESlint and these coding standards, but some rules can be really annoying. Coding standards and rules may differ from company to company. What this means is that although you agree with certain rules, other rules may just be a slight hindrance/annoyance. 
 
-Using the ESlint in class was useful to me, but certain rules peeved me because to me it just doesn’t make sense. An example was a rule where you cannot have a variable name and parameter name be the same name. This is an inconvenience because when working on WODs in class we create these functions that only have one purpose which 
+Using the ESlint in class was useful to me, but certain rules peeved me because to me it just doesn’t make sense. An example was a rule where you cannot have a variable name and parameter name be the same name. This is an inconvenience because when working on WODs in class we create these functions that only have one purpose which is taking in the variable name, and since we can’t make it the same we have to create a random name or name it something similar. So although I do find it interesting I do believe that I won’t ever agree to every “Coding standard” a eslint file will have.
 
 ## Why coding standards are important
 Coding standards are important in large scale projects because it helps mitigate spaghetti code. Which isn’t entirely true, a coding standard wouldn’t stop anyone from coding terribly, I would say it's comparable to spraying a nice bit of poo-pourri after someone drops a massive turd in your toilet at home. 
 
 However it definitely helps when a strong team of coders come together on a project because although each individual is capable of coding large scale projects, each of them may have different coding standards. Regulating to a set standard helps with mitigating any variation throughout the code and makes it consistent to the team working on said project.
 
-is taking in the variable name, and since we can’t make it the same we have to create a random name or name it something similar. So although I do find it interesting I do believe that I won’t ever agree to every “Coding standard” a eslint file will have.
 
