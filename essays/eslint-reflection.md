@@ -9,7 +9,7 @@ labels:
   - ESlint
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/eslint-reflection/mom-yelling-at-child.jpg">
+<img width="500px" class="rounded float-start pe-4" src="../img/eslint-reflection/mom-yelling-at-child.jpg">
 
 ## A general idea of ESlint
 Coding and programming is fascinating. It sets a clear boundary and rules on what you can and cannot do in each language, but coding provides enough freedom for you to create whatever you please. ESlint then comes into the picture and slaps you in the face screaming “everything you’re doing is wrong and it's okay” and corrects all your mistakes like a tiger mom hovering over you watching your every move. 
