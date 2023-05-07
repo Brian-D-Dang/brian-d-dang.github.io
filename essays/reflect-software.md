@@ -11,7 +11,6 @@ labels:
 ---
 
 <img width="500px" class="rounded float-start pe-4" src="../img/reflect-software/software-engineering-1.jpg">
-<img width="500px" class="rounded float-start pe-4" src="../img/reflect-software/software-engineering-2.jpg">
 
 ## Software Engineering
 Throughout my coding career I’ve heard software developer and engineering so many times. I never truly understood the concept behind the title. The only title I did understand was programmer, but little did I know being a programmer and software engineer are the same thing. Except software engineering requires the same knowledge as a programmer, but includes many more responsibilities such as understanding and applying Design Patterns, coding standards, and agile project management. Being a software engineer requires knowledge on many different tools other than learning how to code and write programs. Although these patterns doesn’t showcase software engineering completely, it showcases very key components of being a software engineer.
@@ -27,3 +26,5 @@ Coding standards are basic programing rules that developers create on the projec
 
 ### Agile Project Management
 Agile project management is an idea to set rules and time frames to develop and deliver a project. One of the most important skills I have learned in this class. It involves creating Fixed-length iterations/releases, delivering business value early, Continuous, adaptive planning, and continuous testing. When working on projects, following a guideline to deliver items is important. Instead of waiting around for items to be completed, agile project management forces you to deliver items consistently and within a manageable timeframe. It is important to also understand the scale of which you should plan varies from project to project. As it depends on tasks and the people you are working with. 
+
+<img width="500px" class="rounded float-start pe-4" src="../img/reflect-software/software-engineering-2.jpg">
