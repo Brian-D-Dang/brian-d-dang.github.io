@@ -25,7 +25,7 @@
     },
     {
       "name": "Technologies",
-      "keywords": [ "HTML & CSS", "Vue.js", "Quasar Framework", "Git" ]
+      "keywords": [ "HTML & CSS", "Vue.js", "Quasar Framework", "Git", "React", "Meteor" ]
     }
   ],
   "education": [
