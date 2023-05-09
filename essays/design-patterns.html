@@ -1,0 +1,76 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="title" content="Design patterns, the exoskeleton against bad code | Brian Dang | Professional Portfolio">
+    <meta name="description" content="">
+    <meta name="image" content="https://github.com/brian-d-dang.png">
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="Brian Dang | Professional Portfolio">
+    <meta property="og:url" content="https://brian-d-dang.github.io/essays/design-patterns.html">
+    <meta property="og:title" content="Design patterns, the exoskeleton against bad code | Brian Dang | Professional Portfolio">
+    <meta property="og:description" content="">
+    <meta property="og:image" content="https://github.com/brian-d-dang.png">
+    <link rel="shortcut icon" href="/favicon.ico">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
+    <link rel="stylesheet" href="/css/techfolio-theme/rubik.css">
+    <link rel="stylesheet" type="text/css" href="/css/rouge/github.css">
+    <!-- Load MathJax if 'mathjax: true' is found in your _config.yml. -->
+    
+    <script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/latest.js?config=TeX-MML-AM_CHTML">
+    </script>
+    
+
+    <title>Design patterns, the exoskeleton against bad code | Brian Dang | Professional Portfolio</title>
+  </head>
+  <body>
+  <header class="navbar navbar-expand navbar-light bg-light bg-gradient border-bottom">
+  <div class="container-fluid">
+    <a class="navbar-brand" href="/">Brian Dang</a>
+    <div class="ms-auto">
+      <ul class="navbar-nav mb-2 mb-lg-0">
+        <a class="nav-link" href="/#projects">Projects</a>
+        <a class="nav-link" href="/#essays">Essays</a>
+        <a class="nav-link" href="/resume.html">Resume</a>
+      </ul>
+    </div>
+  </div>
+</header>
+
+<div class="container py-4">
+  <h1 class="display-4">Design patterns, the exoskeleton against bad code</h1>
+  <span class="date">27 Apr 2023</span>
+  <hr>
+  <p><img width="500px" class="rounded float-start pe-4" src="../img/design-patterns/design-patterns.png" /></p>
+
+<h2 id="what-are-design-patterns">What are Design Patterns?</h2>
+
+<p>When working on large scale projects, we often run into difficulties such as lack of communication and cohesion. Teammates may often code certain ways with odd coding conventions. ESlint can only do so much, but it can only mitigate naming issues and spacing. When it comes to complex coding problems we require a general consensus/rule to follow. This we use design patterns. Design patterns are used to keep bad patterns from repeating itself and to make good ones repeat. In this chapter we learned many different design patterns that make coding projects more cohesive and less conflicting.</p>
+
+<h2 id="how-did-i-utilize-design-patterns">How did I utilize design patterns</h2>
+
+<p>With this new found tool, we were able to apply some of the knowledge to our current project Aloha Plants. A common pattern we utilized is known as the observer pattern. With this pattern we subscribe to the database. We are using an observable which notifies all our variables, the observers, when the data has been retrieved from the db. This allows us to create separation of data to allow the code to continuously work while awaiting for data response. This idea is similar to asynchronous calls in Javascript.</p>
+
+<p>Another strong design pattern we utilize is the publish-subscribe design pattern. This allows us to publish specific data to the front end to utilize, but we can only access these databases when we subscribe to the database we need. This is strong because it allows us to segment what type of data we want to expose to the front end instead of grabbing it all at once. Publish and subscribing is a very large part of our project due to meteor’s database structure.</p>
+
+<h2 id="design-patterns-and-my-future">Design Patterns and my future</h2>
+
+<p>This consistency throughout the project helps with my coding because it allows me to identify problems/understand code my teammates create. As I move further into my coding career I realize I need more skills other than my ability to problem solve. It’s fascinating seeing the different learning curves in software engineering. In the future when working on projects I will practice using these new found design patterns at least once.</p>
+
+</div>
+
+<footer class="navbar navbar-expand navbar-light bg-light bg-gradient border-top">
+  <div class="container-fluid">
+    <div class="ms-auto">
+      <ul class="navbar-nav mb-2 mb-lg-0">
+        <small><a class="nav-link" href="https://techfolios.github.io">Made with Techfolios</a></small>
+      </ul>
+    </div>
+  </div>
+</footer>
+
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2" crossorigin="anonymous"></script>
+  </body>
+</html>

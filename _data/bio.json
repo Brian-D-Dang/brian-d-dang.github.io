@@ -1,0 +1,107 @@
+{
+  "basics": {
+    "name": "Brian Dang",
+    "label": "Student",
+    "picture": "https://github.com/brian-d-dang.png",
+    "email": "bdd@hawaii.edu",
+    "website": "https://brian-d-dang.github.io",
+    "summary": "I am an aspiring Software Engineer and Esports enthusiast. I am currently attending the University of Hawaii at Manoa and pursuing a B.S in Data Science Computer Science.",
+    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "profiles": [
+      { "network": "github", "username": "Brian-D-Dang", "url": "https://github.com/Brian-D-Dang" },
+      { "network": "linkedin", "username": "Brian Dang", "url": "https://www.linkedin.com/in/brian-d-dang/" }
+    ]
+  },
+  "interests": [
+    { "name": "Software Engineering" },
+    { "name": "Machine Learning" },
+    { "name": "Esports" },
+    { "name": "Fitness" }
+  ],
+  "skills": [
+    {
+      "name": "Languages",
+      "keywords": [ "C", "C++", "Java", "Javascript", "Python" ]
+    },
+    {
+      "name": "Technologies",
+      "keywords": [ "HTML & CSS", "Vue.js", "Quasar Framework", "Git", "React", "Meteor" ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Data Science Computer Science (expected Spring, 2025)",
+      "studyType": "B.S.",
+      "startDate": "2020-09-01",
+      "endDate": "Present",
+      "courses": [
+      ]
+    }
+  ],
+  "work": [
+    {
+      "company": "Research Computing Facility",
+      "position": "Computer and Network Support",
+      "website": "http://www.soest.hawaii.edu/rcf/",
+      "startDate": "2022-08",
+      "endDate": "Present",
+      "summary": "Provide computer and network support to SOEST, the research institute for all Ocean and Earth Sciences at the University of Hawai’i at Manoa, under the Research Computing Facility",
+      "highlights": [
+        "Keep up-to-date user accounts within the SOEST network servers",
+        "Analyze, troubleshoot, and evaluate the hardware and software problems of users within the SOEST network"
+      ]
+    },
+    {
+      "company": " EWorld Enterprise & Solutions",
+      "position": "Software Developer Intern",
+      "website": "https://www.eworldes.com/",
+      "startDate": "2019-05",
+      "endDate": "2022-08",
+      "summary": "",
+      "highlights": [
+        "Learned software engineering process improvements and best practices",
+        "Collaborated with other developers to identify and alleviate a number of bugs in software",
+        "Maintained and upgraded products to deliver smooth-running systems"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "University of Hawaii Esports",
+      "website": "http://manoa.hawaii.edu/reis",
+      "position": "UH Esports Team Manager/Player Coordinator",
+      "startDate": "2022-06",
+      "endDate": "Present",
+      "summary": "Managed and directed the Apex Varsity team.",
+      "highlights": [
+        "Managed practice times and tournmanet times",
+        "Consistently worked with players to improve on team work and gaming experience"
+      ]
+    },
+        {
+      "organization": "Association for Computing Machinery",
+      "website": "https://acmanoa.github.io/",
+      "position": "Member",
+      "startDate": "2020-09",
+      "endDate": "Present",
+      "summary": "A club that holds social events to develop interpersonal relations and connections, and reinforces computer science knowledge",
+      "highlights": [
+        "Sovled complex coding problems"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "B+ Scholarship",
+      "date": "2020-Present",
+      "awarder": "State of Hawaii",
+      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+    }
+  ],
+  "references": [
+    {
+      "name": "Available upon request"
+    }
+  ]
+}
